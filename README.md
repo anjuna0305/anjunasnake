@@ -11,7 +11,7 @@ Compile & run:
 ```bash
 gcc snake.c `sdl2-config --cflags --libs`
 ./a.out
-
+```
 if you are willing to contribute, 
 - berry location generation is not efficient (when snake is long) 
 - speed is not incremented after eating a berry
